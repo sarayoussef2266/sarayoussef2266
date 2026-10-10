@@ -1,4 +1,4 @@
-# Hi, Iam Sara Youssef 
+# Hi, I'm Sara Youssef
 
 ### Junior Data Engineer | DataOps
 
@@ -29,7 +29,7 @@ Computer Science graduate from **Nile University** and **DataOps Intern at NTI H
 
 ## Beyond engineering
 
-Junior Teaching Assistant for Discrete Mathematics ? ICPC participant ? 1st Place, 19th UGRF, for Traffic Prediction & Data Analysis.
+Junior Teaching Assistant for Discrete Mathematics | ICPC participant | 1st Place, 19th UGRF, for Traffic Prediction & Data Analysis.
 
 ## Contact
 
